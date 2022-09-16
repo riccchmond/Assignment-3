@@ -1,0 +1,175 @@
+/* ---BY MPOFU RICHMOND--- */
+body{
+	background:pink;
+}
+
+h1{
+	color:black;
+	font-size:50px;
+	font-family: impact;
+}
+
+table, td{
+	font-size:20px;
+	border: 1px solid;
+}
+
+th{
+	background-color:magenta;
+	font-size:30px;
+	border: 1px solid;
+}
+
+  
+textarea {
+    width: 560px;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+    height: 100px;
+    font-size: 18px;
+}
+  
+button {
+    color: black;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: none;
+    cursor: pointer;
+    transition: all 0.5s;
+    color:black;
+}
+  
+button:hover {
+    background-image: linear-gradient(
+      to right,
+      #e8491d 0%,
+      #e8491d 100%
+    );
+    color: white;
+}
+  
+form {
+    padding: 40px;
+}
+
+label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+ 
+input {
+    padding: 10px;
+    border-radius: 5px;
+    width: 280px;
+    border: 1px solid rgb(0, 114, 66);
+    font-size: 18px;
+    outline: none;
+    color: #333;
+}
+
+.input-form{
+	width:800px;
+	height:600px;
+	margin-left: auto;
+	margin-right:auto;
+	border: 2px solid black;
+	border-radius: 5%;
+	
+}
+
+.header{
+	color:white;
+	background-image: url(bg1.jpg);
+	font-size:25px;	
+}
+
+.navheader {
+	background-color:rgba(250,250,250,0.2);
+	padding-top:10px;
+}
+
+a{
+	padding:50px;
+	color:black;
+}
+
+.topnav {
+	padding:0px;
+}
+
+.topnav a:hover{
+	color: navy;
+	font-size:30px;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.5s ease 0s;
+	-o-transition: all 0.5s ease 0s;
+	transition: all 0.5s ease 0s;
+	position: relative;
+	z-index: 999;
+}
+
+.topnav a:active{
+	color:blue;
+}
+
+.topnav {
+	font-size:25px;
+	background: transparent;
+	display: block;
+	overflow: none;
+	text-align: center;
+	margin:0px;	
+}
+
+.more{
+	background-color: peach;
+}
+
+.des{
+	text-align:center;
+	font-family: impact;
+}
+
+.page-body{
+	font-size: 30px;
+	padding-left: 20px;
+}
+
+
+.invalid {
+    border: 1px solid red;
+}
+  
+.mb-2 {
+    margin-bottom: 20px;
+}
+  
+.mb-4 {
+    margin-bottom: 40px;
+}
+  
+.control {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+  
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 6px;
+}
+  
+
+.hide {
+    opacity: 0;
+}
+
+
+
+.foot {
+	text-align:center;
+}
+
